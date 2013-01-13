@@ -27,7 +27,7 @@ Når Emancipation Angel kommer i spil, skal du vælge en permanent, som du kontr
 
 
 #Oblivion Ring (2H)
-Når Oblivion Ring kommer i spil, skal du exile en permanent, som ikke er et land, og som du kontrollerer.
+Når Oblivion Ring kommer i spil, skal du exile en permanent, som ikke er et land, og som du kontrollerer.  
 Når Oblivion Ring forlader spillet, skal det kort i spil igen, men skal kontrolleres af den spiller, som ejer kortet.
 
 

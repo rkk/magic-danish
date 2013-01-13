@@ -1,5 +1,5 @@
 #Torch Fiend (1R)
-R: Hvis du ofrer Torch Fiend, kan du ødelægge en artifact
+(R): Hvis du ofrer Torch Fiend, kan du ødelægge en artifact
 
 
 #Demolish (3R)
@@ -7,7 +7,7 @@ R: Hvis du ofrer Torch Fiend, kan du ødelægge en artifact
 
 
 #Skirsdag Cultist (2RR)
-R, tap: Hvis du ofrer et creature giver Skirsdag Cultist 2 i skade til en spiller eller et creature.
+(R), tap: Hvis du ofrer et creature giver Skirsdag Cultist 2 i skade til en spiller eller et creature.
 
 
 #Curse of the Nightly Hunt (2RR)
@@ -19,11 +19,11 @@ Du kan vælge et creature, som du kontrollerer indtil turen er slut. Dette creat
 
 
 #Krenko's Command (1R)
-Laver to 1/1 røde Goblin creatures.
+Sæt 2 røde 1/1 creatures af typen Goblin i spil.
 
 
 #Brimstone Volloy (2R)
-Giver 3 i skade til en spiller eller et creature.
+Giver 3 i skade til en spiller eller et creature.  
 Morbid: Giver 5 i skade til den spiller eller det creature, hvis der var et creature, der døde i denne tur.
 
 
@@ -36,7 +36,7 @@ Når Goblin Arsonist dør, kan du vælge om den skal give 1 i skade til en spill
 
 
 #Torch Fiend (1R)
-R: Hvis du ofrer Torch Fiend kan du ødelægge en artifakt.
+R: Hvis du ofrer Torch Fiend kan du ødelægge en artifact.
 
 
 #Crossway Vampire (1RR)
@@ -48,22 +48,21 @@ Giver 4 i skade til en spiller, og 1 i skade til hver creature, som denne spille
 
 
 #Falkenrath Exterminator (1R)
-Når Falkenrath Exterminator giver combat damage til en spiller, skal du sætte en +1/+1 tæller på Falkenrath Exterminator.
-2R: Falkenrath Exterminator giver lige så meget i skade til et creature, som der er tællere på Falkenrath Exterminator.
+Når Falkenrath Exterminator giver combat damage til en spiller, skal du sætte en +1/+1 tæller på Falkenrath Exterminator.  
+(2R): Falkenrath Exterminator giver lige så meget i skade til et creature, som der er tællere på Falkenrath Exterminator.
 
 
 #Bloodcrazed Neonate (1R)
-Angriber hver af dine ture, hvis den kan.
+Angriber hver af dine ture, hvis den kan.  
 Når Bloodcrazed Neonate giver combat damage til en spiller, skal du sætte en +1/+1 tæller på den.
 
 
 #Geistflame (R)
-Giver 1 i skade til en spiller eller et creature.
-Flashback 3R.
+Giver 1 i skade til en spiller eller et creature.  
+(3R): Flashback
 
 
 #Volcanic Strength (1R)
-Enchant creature
 Giver +2/+2 og mountainwalk til det creature, som det lægges på.
 
 
@@ -72,12 +71,10 @@ Tap: Vælg et kort fra hånden og læg dette i graveyard. Træk herefter et nyt 
 
 
 #Curse of the Pierced Heart (1R)
-Enchant player.
 Giver 1 i skade til den spiller, som Curse of the Pierced Heart lægger på, i begyndelsen af spillerens upkeep.
 
 
 #Markov Warlord (5R)
-Haste.
 Når dette kort kommer i spil, kan du vælge en eller to creatures, som ikke kan blokere i denne tur.
 
 
@@ -87,16 +84,15 @@ Giver 2 i skade til en spiller eller et creature. Hvis du giver skade til et cre
 
 #Thunderous Wrath (4RR)
 Giver 5 i skade til en spiller eller et creature.
-R: Miracle
+(R): Miracle
 
 
 #Feral Ridgewolf (2R)
-Trample
-1R: Får +2/+0 i resten af denne tur.
+(1R): Får +2/+0 i resten af denne tur.
 
 
 #Demolish (3R)
-Ødelæg en artifact eller et land.
+Destroy en artifact eller et land.
 
 
 #Flames of the Firebrand (2R)
@@ -116,7 +112,6 @@ Når et creature af typen Vampire, som du kontrollerer, giver skade til en spill
 
 
 #Heirs of Stromkirk (2RR)
-Intimidate.
 Når Heirs of Stromkirk giver skade til en spiller, får Heirs of Stromkirk en +1/+1 tæller på sig.
 
 
@@ -138,5 +133,5 @@ For at lægge Harvest Pyre skal du exile et antal kort. Derefter giver Harvest P
 
 #Shattered Perception (2R)
 Tæl hvor mange kort du har på hånden, og læg derefter alle kortene i din hånd i graveyard. Herefter kan du trække lige så mange nye kort fra dit deck, som du havde på hånden.
-5R: Flashback.
+(5R): Flashback.
 
